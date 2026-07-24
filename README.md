@@ -1,6 +1,9 @@
 # Hi, I'm Khanh Tam 👋
 
 🎓 Computer Science Student
+🏫 Ho Chi Minh City University of Technology (HCMUT)
+
+🔐 Cybersecurity Enthusiast
 
 🧩 Reverse Engineering Learner
 
@@ -10,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student interested in both **building software** and **understanding how it works under the hood**.
+I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**, interested in both **building software** and **understanding how it works under the hood**.
 
 My interests include:
 
@@ -32,7 +35,7 @@ I enjoy building things, taking them apart, and understanding the systems behind
 
 ### Development
 
-`Git` · `Linux` · `SQL`
+`Git` · `Linux` · `SQL` · `Object-Oriented Programming`
 
 ### Security & Reverse Engineering
 
@@ -60,6 +63,13 @@ A project exploring game development and programming logic.
 
 * Software Development
 * Reverse Engineering
+* Cybersecurity
 * Operating Systems
+* Computer Architecture
+* Low-level Programming
 
 ---
+
+> **Build it. Break it. Understand it. Improve it.** 🧩
+
+📫 Always learning. Always exploring.
