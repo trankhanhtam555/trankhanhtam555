@@ -1,8 +1,9 @@
 # Hi, I'm Khanh Tam 👋
 
 🎓 Computer Science Student
-🔐 Cybersecurity Enthusiast
+
 🧩 Reverse Engineering Learner
+
 💻 Software Developer
 
 ---
