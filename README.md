@@ -59,9 +59,6 @@ A project exploring game development and programming logic.
 
 * Software Development
 * Reverse Engineering
-* Cybersecurity
 * Operating Systems
-* Computer Architecture
-* Low-level Programming
 
 ---
